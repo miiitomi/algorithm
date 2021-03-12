@@ -16,7 +16,7 @@
  - 省略.
 
 ## 2.5
- - 省略
+ - 省略.
 
 ## 2.6
  - 任意の$N \ge 1$に対して, \[O(\log(N)) = \log(N+1) = \int_{0}^{N}\frac{1}{x+1}dx < 1 + \frac{1}{2} + \dots \frac{1}{N} \le 1 + \int_{1}^{N}\frac{1}{x}dx = 1 + \log N = O(\log N)\]
