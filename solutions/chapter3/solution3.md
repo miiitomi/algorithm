@@ -3,7 +3,7 @@
 
 ## 3.2
 `problem_3_2.cpp`
-```
+```cpp
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -25,7 +25,7 @@ int main() {
 ```
 
 `problem_3_2.py`
-```
+```python
 def main():
     N, v = map(int, input().split())
     a = list(map(int, input().split()))
@@ -44,7 +44,7 @@ if __name__ == '__main__':
 
 ## 3.3
 `problem_3_3.cpp`
-```
+```cpp
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -78,7 +78,7 @@ int main() {
 ```
 
 `problem_3_3.py`
-```
+```python
 INF = 100000000
 
 def main():
